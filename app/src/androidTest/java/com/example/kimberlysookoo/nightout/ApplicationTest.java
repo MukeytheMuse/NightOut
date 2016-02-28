@@ -1,4 +1,4 @@
-package com.example.flora.why;
+package com.example.kimberlysookoo.nightout;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
